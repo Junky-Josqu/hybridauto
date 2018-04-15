@@ -39,3 +39,12 @@ Hybrid = hybrida(lat.) = Mischling
 1. **Serieller** Hybrid: Verbrennungsmotor **versorgt** mit Batterie den Elektromotor.
 2. **Paralleler** Hybrid: Verbrennungs und Elektromotor arbeiten **parralel** zusammen.
 3. **Leistungsverzweigter** Hybrid: Verbrennungsmotor und Elektromotor wechseln zwischen Seriellen und parralelen Betrieb je nach **Bedarf**.
+
+# Serieller Hybrid -Grafik
+![Serieller Hybrid](img/serieller.jpg)
+
+# Paralleler Hybrid -Grafik
+![Paralleler Hybrid](img/paralleler.jpg)
+
+# Leistungsverzweigter Hybrid - Grafik
+![Leistungsverzweigter Hybrid](img/leistungsverzweigter.jpg)
