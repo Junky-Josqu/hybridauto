@@ -6,7 +6,7 @@ subtitle:
 author:
 - Jonathan Guenther und Luke Addis
 theme:
-- Copenhagen
+- Warsaw
 ---
 
 # Inhaltsverzeichnis
@@ -34,4 +34,8 @@ Hybrid = hybrida(lat.) = Mischling
 
 
 # Grundlegende Technik
+> Es gibt grundlegend 3 Arten von Hybridfahrzeugen:
 
+1. **Serieller** Hybrid: Verbrennungsmotor **versorgt** mit Batterie den Elektromotor.
+2. **Paralleler** Hybrid: Verbrennungs und Elektromotor arbeiten **parralel** zusammen.
+3. **Leistungsverzweigter** Hybrid: Verbrennungsmotor und Elektromotor wechseln zwischen Seriellen und parralelen Betrieb je nach **Bedarf**.
