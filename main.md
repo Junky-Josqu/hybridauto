@@ -12,5 +12,10 @@ theme:
 # Inhaltsverzeichnis
 1.a
 
-# Definition
+# Definition-Wortherkunft
+
+## Definition
  > Ein **Hybridelektrokraftfahrzeug**(Hybridauto) ist ein Fahrzeug, dass mindestens von einem **Elektromotor** und einem **anderen Motor** angetrieben wird.
+
+## Wortherkunft
+  Hybrid = hybrida(lat.) = Mischling
