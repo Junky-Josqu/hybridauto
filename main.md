@@ -4,7 +4,7 @@ title:
 subtitle:
 - Hybridelektrofahrzeug
 author:
-- Jonathan Guenther und Luke Addis
+- Jonathan Guenther, Luke Addis und Emir Oezdemir
 theme:
 - Warsaw
 ---
