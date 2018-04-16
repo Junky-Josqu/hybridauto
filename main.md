@@ -10,7 +10,26 @@ theme:
 ---
 
 # Inhaltsverzeichnis
-a
+
+   * [Inhaltsverzeichnis](#inhaltsverzeichnis)
+   * [Definition-Wortherkunft](#definition-wortherkunft)
+      * [Definition](#definition)
+      * [Wortherkunft](#wortherkunft)
+   * [Grundlegende Technik](#grundlegende-technik)
+      * [Vereinfachte Systemstruktur](#vereinfachte-systemstruktur)
+      * [Plug-in-Hybrid](#plug-in-hybrid)
+   * [Einteilung nach Systemstruktur](#einteilung-nach-systemstruktur)
+      * [Serieller Hybrid -Grafik](#serieller-hybrid--grafik)
+      * [Paralleler Hybrid -Grafik](#paralleler-hybrid--grafik)
+      * [Leistungsverzweigter Hybrid - Grafik](#leistungsverzweigter-hybrid---grafik)
+   * [Einteilug nach Elektrischer Leistung](#einteilug-nach-elektrischer-leistung)
+      * [<strong>Mild</strong>hybrid](#mildhybrid)
+      * [<strong>Voll</strong>hybrid](#vollhybrid)
+   * [Vor- und Nachteile:](#vor--und-nachteile)
+      * [Vorteile:](#vorteile)
+      * [Nachteile](#nachteile)
+   * [Quellen](#quellen)
+
 
 
 # Definition-Wortherkunft
@@ -41,9 +60,9 @@ Hybrid = hybrida(lat.) = Mischling
 # Einteilung nach Systemstruktur
 > Es gibt grundlegend 3 Systemstrukturen von Hybridfahrzeugen:
 
-## 3. **Leistungsverzweigter** Hybrid: Verbrennungsmotor und Elektromotor wechseln zwischen Seriellen und parralelen Betrieb je nach **Bedarf**.
+## 3. **Leistungsverzweigter** Hybrid: Verbrennungsmotor und Elektromotor wechseln zwischen seriellen und parallelen Betrieb je nach **Bedarf**.
  1. **Serieller** Hybrid: Verbrennungsmotor **versorgt** Batterie, diese den Elektromotor.
- 2. **Paralleler** Hybrid: Verbrennungs und Elektromotor arbeiten **parralel** zusammen.
+ 2. **Paralleler** Hybrid: Verbrennungs und Elektromotor arbeiten **parallel** zusammen.
 
 # Serieller Hybrid -Grafik
 ![Serieller Hybrid](img/serieller.jpg)
@@ -62,11 +81,11 @@ Hybrid = hybrida(lat.) = Mischling
 
 ## **Mild**hybrid 
   - Elektroantrieb unterstützt Verbrennugsmotor.
-  - 6 - 14 kW/t Leistung
+  - 6 - 14 kW/h Leistung
 
 ## **Voll**hybrid 
   - Können rein Elektrisch fahren 
-  - 20< kW/t
+  - 20< kW/h
 
 # Vor- und Nachteile: 
 
@@ -78,15 +97,15 @@ Hybrid = hybrida(lat.) = Mischling
 - Leise
 - Subventionen
 
-## Nachteile
+## Nachteile:
 
 - Wenige ladestation
 - Schwerres Auto da 2 Motoren und Batterie.
 - geringe Reichweite (Elektromotor)
-- Teür
+- Teuer
 - Batterien entladen sich bei kälte.
 
-# Qüllen:
+# Quellen:
 ## Webseiten
 - [Wikipedia.org/hybridauto](https://de.wikipedia.org/wiki/Hybridelektrokraftfahrzeug)
 - [elektroauto-hybridauto.de](http://www.elektroauto-hybridauto.de)
