@@ -58,9 +58,4 @@ Hybrid = hybrida(lat.) = Mischling
   - Sonstiges: Technologie standart seit ein paar Jahren.
 
 # Einteilug nach Elektrischer Leistung
-> Hybridautos werden auch nach ihrer Elektrischen Leistung eingeteilt.
-## **Mikro**hybrid 
-- Kein Elektro-Motor
-- Energie fuer Autobatterie wird gewonnen beim Bremsen.
-- Autobatterie kann auch durch andere funktionene aufgeladen werden.
-**
+ Hybridautos werden auch nach ihrer Elektrischen Leistung eingeteilt.
