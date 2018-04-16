@@ -35,11 +35,15 @@ Hybrid = hybrida(lat.) = Mischling
 
 # Grundlegende Technik
 
+## Vereinfachte Systemstruktur
 - Batterie speichert Energie und versorgt Generator.
 - Manchmal dient Verbrennugsmotor um Generator anzutreiben.
 - Generator treibt Elektromotor an. 
 - Elektromotor arbeitet mit Verbrennugsmotor.
 - Fast immer wird Bremsenergie genutzt um Energie zurueckzugewinnen.
+
+## Plug-in-Hybrid
+- PHEV = Plug-in-Hybrid: Batterie wird ueber Stromnetzt geladen um Reichweite zu erhoehen.
 
 ## Elektromotor 
  > **Elektromotoren wandeln elektrische Energie in Bewegungsenergie um mithilfe von Magnetfelder**. 
@@ -47,9 +51,9 @@ Hybrid = hybrida(lat.) = Mischling
 # Einteilung nach Systemstruktur
 > Es gibt grundlegend 3 Systemstrukturen von Hybridfahrzeugen:
 
-1. **Serieller** Hybrid: Verbrennungsmotor **versorgt** Batterie, diese den Elektromotor.
-2. **Paralleler** Hybrid: Verbrennungs und Elektromotor arbeiten **parralel** zusammen.
-3. **Leistungsverzweigter** Hybrid: Verbrennungsmotor und Elektromotor wechseln zwischen Seriellen und parralelen Betrieb je nach **Bedarf**.
+## 3. **Leistungsverzweigter** Hybrid: Verbrennungsmotor und Elektromotor wechseln zwischen Seriellen und parralelen Betrieb je nach **Bedarf**.
+ 1. **Serieller** Hybrid: Verbrennungsmotor **versorgt** Batterie, diese den Elektromotor.
+ 2. **Paralleler** Hybrid: Verbrennungs und Elektromotor arbeiten **parralel** zusammen.
 
 # Serieller Hybrid -Grafik
 ![Serieller Hybrid](img/serieller.jpg)
