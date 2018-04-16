@@ -34,9 +34,11 @@ Hybrid = hybrida(lat.) = Mischling
 
 
 # Grundlegende Technik
-> Es gibt grundlegend 3 Arten von Hybridfahrzeugen:
 
-1. **Serieller** Hybrid: Verbrennungsmotor **versorgt** mit Batterie den Elektromotor.
+# Einteilung nach Systemstruktur
+> Es gibt grundlegend 3 Systemstrukturen von Hybridfahrzeugen:
+
+1. **Serieller** Hybrid: Verbrennungsmotor **versorgt** Batterie, diese den Elektromotor.
 2. **Paralleler** Hybrid: Verbrennungs und Elektromotor arbeiten **parralel** zusammen.
 3. **Leistungsverzweigter** Hybrid: Verbrennungsmotor und Elektromotor wechseln zwischen Seriellen und parralelen Betrieb je nach **Bedarf**.
 
@@ -48,3 +50,4 @@ Hybrid = hybrida(lat.) = Mischling
 
 # Leistungsverzweigter Hybrid - Grafik
 ![Leistungsverzweigter Hybrid](img/leistungsverzweigter.jpg)
+
