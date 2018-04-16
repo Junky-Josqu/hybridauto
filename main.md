@@ -64,11 +64,6 @@ Hybrid = hybrida(lat.) = Mischling
 # Leistungsverzweigter Hybrid - Grafik
 ![Leistungsverzweigter Hybrid](img/leistungsverzweigter.jpg)
 
-# Plug-in-Hybrid
-  - PHEV = Plug-in-Hybrid.
-  - Nutzten = Kraftstoffverbrauch senken.
-  - Technik = Akku wird ueber Stromnetzt aufgeladen und nicht nur Verbrennungsmotor.
-  - Sonstiges: Technologie standart seit ein paar Jahren.
 
 # Einteilug nach Elektrischer Leistung
 
