@@ -4,7 +4,7 @@ title:
 subtitle:
 - Hybridelektrofahrzeug
 author:
-- Jonathan Guenther, Luke Addis und Emir Oezdemir
+- Jonathan Günther, Luke Addis und Emir Özdemir
 theme:
 - Warsaw
 ---
@@ -30,10 +30,10 @@ Hybrid = hybrida(lat.) = Mischling
 - Oft dient Verbrennugsmotor um Generator anzutreiben.
 - Generator treibt Elektromotor an. 
 - Elektromotor arbeitet mit Verbrennugsmotor.
-- Fast immer wird Bremsenergie genutzt um Energie zurueckzugewinnen.
+- Fast immer wird Bremsenergie genutzt um Energie zurückzugewinnen.
 
 ## Plug-in-Hybrid
-- PHEV = Plug-in-Hybrid: Batterie wird ueber Stromnetzt geladen um Reichweite zu erhoehen.
+- PHEV = Plug-in-Hybrid: Batterie wird über Stromnetzt geladen um Reichweite zu erhöhen.
 
 ## Elektromotor 
  > **Elektromotoren wandeln elektrische Energie in Bewegungsenergie um mithilfe von Magnetfelder**. 
@@ -61,11 +61,11 @@ Hybrid = hybrida(lat.) = Mischling
 
 
 ## **Mild**hybrid 
-  - Elektroantrieb unterstuetzt Verbrennugsmotor.
+  - Elektroantrieb unterstützt Verbrennugsmotor.
   - 6 - 14 kW/t Leistung
 
 ## **Voll**hybrid 
-  - Koennen rein Elektrisch fahren 
+  - Können rein Elektrisch fahren 
   - 20< kW/t
 
 # Vor- und Nachteile: 
@@ -83,10 +83,10 @@ Hybrid = hybrida(lat.) = Mischling
 - Wenige ladestation
 - Schwerres Auto da 2 Motoren und Batterie.
 - geringe Reichweite (Elektromotor)
-- Teuer
-- Batterien entladen sich bei kaelte.
+- Teür
+- Batterien entladen sich bei kälte.
 
-# Quellen:
+# Qüllen:
 ## Webseiten
 - [Wikipedia.org/hybridauto](https://de.wikipedia.org/wiki/Hybridelektrokraftfahrzeug)
 - [elektroauto-hybridauto.de](http://www.elektroauto-hybridauto.de)
@@ -94,5 +94,5 @@ Hybrid = hybrida(lat.) = Mischling
 - [hybridauto.de](hybridauto.de)
 - [wikimedia.de(Bilder)](commons.wikimedia.org/wiki/File:Prius2004.JPG)
 
-## Lektueren:
-  - Bruckhaus Enzeklopaedie
+## Lektüren:
+  - Bruckhaus Enzeklopädie
