@@ -26,7 +26,7 @@ theme:
       * [<strong>Mild</strong>hybrid](#mildhybrid)
       * [<strong>Voll</strong>hybrid](#vollhybrid)
    * [Vor- und Nachteile:](#vor--und-nachteile)
-      * [Vorteile:](#vorteile)
+      * [Vorteile](#vorteile)
       * [Nachteile](#nachteile)
    * [Quellen](#quellen)
 
@@ -85,7 +85,7 @@ Hybrid = hybrida(lat.) = Mischling
 
 ## **Voll**hybrid 
   - Können rein Elektrisch fahren 
-  - 20< kW/h
+  - 20< kW/h Leistung
 
 # Vor- und Nachteile: 
 
