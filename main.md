@@ -23,21 +23,11 @@ a
 
 Hybrid = hybrida(lat.) = Mischling
 
-# Geschichte des Hybridautos
-## Frühe Entwicklungen
-
-- 1899 La Cuadra in Barcelona mit einem zusätzlichen Verbrennungsmotor der einen Generator antrieb.
-- Viele Modelle folgen wobei der Verbrennugsmotor dominanter wurde und der Elektromotor verschwand.
-
-
-## Ab 1994
-
-
 # Grundlegende Technik
 
 ## Vereinfachte Systemstruktur
 - Batterie speichert Energie und versorgt Generator.
-- Manchmal dient Verbrennugsmotor um Generator anzutreiben.
+- Oft dient Verbrennugsmotor um Generator anzutreiben.
 - Generator treibt Elektromotor an. 
 - Elektromotor arbeitet mit Verbrennugsmotor.
 - Fast immer wird Bremsenergie genutzt um Energie zurueckzugewinnen.
@@ -84,8 +74,8 @@ Hybrid = hybrida(lat.) = Mischling
 
 - Stop and Go - "Technologie"
 - Umweltschonend 
+- Mehr leistung
 - Leise
-- In Theorie leichter zu warten.
 - Subventionen
 
 ## Nachteile
@@ -94,3 +84,15 @@ Hybrid = hybrida(lat.) = Mischling
 - Schwerres Auto da 2 Motoren und Batterie.
 - geringe Reichweite (Elektromotor)
 - Teuer
+- Batterien entladen sich bei kaelte.
+
+# Quellen:
+## Webseiten
+- [Wikipedia.org/hybridauto](https://de.wikipedia.org/wiki/Hybridelektrokraftfahrzeug)
+- [elektroauto-hybridauto.de](http://www.elektroauto-hybridauto.de)
+- [Auto-Welt.de](https://www.die-auto-welt.de/ratgeber/hybridfahrzeuge-vor-und-nachteile)
+- [hybridauto.de](hybridauto.de)
+- [wikimedia.de(Bilder)](commons.wikimedia.org/wiki/File:Prius2004.JPG)
+
+## Lektueren:
+  - Bruckhaus Enzeklopaedie
