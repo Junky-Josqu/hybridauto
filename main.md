@@ -6,7 +6,7 @@ subtitle:
 author:
 - Jonathan Günther, Luke Addis und Emir Özdemir
 theme:
-- Warsaw
+- Luebeck
 ---
 
 # Inhaltsverzeichnis
