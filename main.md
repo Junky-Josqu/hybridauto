@@ -82,4 +82,16 @@ Hybrid = hybrida(lat.) = Mischling
 # Vor- und Nachteile: 
 
 ## Vorteile: 
+
 - Stop and Go - "Technologie"
+- Umweltschonend 
+- Leise
+- In Theorie leichter zu warten.
+- Subventionen
+
+## Nachteile
+
+- Wenige ladestation
+- Schwerres Auto da 2 Motoren und Batterie.
+- geringe Reichweite (Elektromotor)
+- Teuer
