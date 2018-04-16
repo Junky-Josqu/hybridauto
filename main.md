@@ -35,6 +35,13 @@ Hybrid = hybrida(lat.) = Mischling
 
 # Grundlegende Technik
 
+- Batterie speichert Energie und versorgt Generator.
+- Manchmal dient Verbrennugsmotor um Generator anzutreiben.
+- Generator treibt Elektromotor an. 
+- Elektromotor arbeitet mit Verbrennugsmotor.
+- Fast immer wird Bremsenergie genutzt um Energie zurueckzugewinnen.
+
+
 # Einteilung nach Systemstruktur
 > Es gibt grundlegend 3 Systemstrukturen von Hybridfahrzeugen:
 
@@ -58,4 +65,15 @@ Hybrid = hybrida(lat.) = Mischling
   - Sonstiges: Technologie standart seit ein paar Jahren.
 
 # Einteilug nach Elektrischer Leistung
- Hybridautos werden auch nach ihrer Elektrischen Leistung eingeteilt.
+
+  > (Elektrische -)**Hybridautos werden auch nach ihrer Elektrischen Leistung eingeteilt.**
+
+
+## **Mild**hybrid 
+  - Elektroantrieb unterstuetzt Verbrennugsmotor.
+  - 6 - 14 kW/t Leistung
+
+## **Voll**hybrid 
+  - Koennen rein Elektrisch fahren 
+  - 20< kW/t
+
