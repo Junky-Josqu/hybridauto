@@ -41,6 +41,8 @@ Hybrid = hybrida(lat.) = Mischling
 - Elektromotor arbeitet mit Verbrennugsmotor.
 - Fast immer wird Bremsenergie genutzt um Energie zurueckzugewinnen.
 
+## Elektromotor 
+ > **Elektromotoren wandeln elektrische Energie in Bewegungsenergie um mithilfe von Magnetfelder**. 
 
 # Einteilung nach Systemstruktur
 > Es gibt grundlegend 3 Systemstrukturen von Hybridfahrzeugen:
@@ -77,3 +79,7 @@ Hybrid = hybrida(lat.) = Mischling
   - Koennen rein Elektrisch fahren 
   - 20< kW/t
 
+# Vor- und Nachteile: 
+
+## Vorteile: 
+- Stop and Go - "Technologie"
