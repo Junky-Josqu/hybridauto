@@ -5,4 +5,4 @@ Links:
 
 [Handout(aktueller)](https://github.com/Junky-Josqu/hybridauto/blob/master/main.md).
 
-[Powerpoint(teils veraltet)](https://github.com/Junky-Josqu/hybridauto/blob/master/out/pres.pdf).
+[Powerpoint()](https://github.com/Junky-Josqu/hybridauto/blob/master/out/pres.pdf).
