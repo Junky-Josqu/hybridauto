@@ -26,7 +26,7 @@ Hybrid = hybrida(lat.) = Mischling
 # Geschichte des Hybridautos
 ## Frühe Entwicklungen
 
-- 1899 La Cuadra in Barcelona mit einem zusätzlichen Verbrennungsmotor der aber einen Generator antrieb.
+- 1899 La Cuadra in Barcelona mit einem zusätzlichen Verbrennungsmotor der einen Generator antrieb.
 - Viele Modelle folgen wobei der Verbrennugsmotor dominanter wurde und der Elektromotor verschwand.
 
 
@@ -55,3 +55,12 @@ Hybrid = hybrida(lat.) = Mischling
   - PHEV = Plug-in-Hybrid.
   - Nutzten = Kraftstoffverbrauch senken.
   - Technik = Akku wird ueber Stromnetzt aufgeladen und nicht nur Verbrennungsmotor.
+  - Sonstiges: Technologie standart seit ein paar Jahren.
+
+# Einteilug nach Elektrischer Leistung
+> Hybridautos werden auch nach ihrer Elektrischen Leistung eingeteilt.
+## **Mikro**hybrid 
+- Kein Elektro-Motor
+- Energie fuer Autobatterie wird gewonnen beim Bremsen.
+- Autobatterie kann auch durch andere funktionene aufgeladen werden.
+**
