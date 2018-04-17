@@ -3,6 +3,6 @@ I need to create a presentation about hybrid-cars for school , in german. I use 
 
 Links:
 
-[Handout(aktueller)](https://github.com/Junky-Josqu/hybridauto/blob/master/main.md).
+[Handout](https://github.com/Junky-Josqu/hybridauto/blob/master/handout/doc.pdf).
 
-[Powerpoint()](https://github.com/Junky-Josqu/hybridauto/blob/master/out/pres.pdf).
+[Powerpoint](https://github.com/Junky-Josqu/hybridauto/blob/master/out/pres.pdf).
